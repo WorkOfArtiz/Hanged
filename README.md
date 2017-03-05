@@ -33,3 +33,6 @@ you pick the exact word to guess, rather than create some hack around it.
 
 And the lolcat option pukes rainbow ansi colours, which are only supported in
 posix terminals, more for fun than anything else.
+
+**NOTE**: the current version is compiled for Linux, if you need to run it on a different
+OS please let us know.
