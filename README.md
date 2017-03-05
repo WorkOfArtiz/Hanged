@@ -4,6 +4,9 @@
 
 A binary of a hangman game with documentation for software testing
 
+![a screenshot of hangman](test.png)
+
+
 The usage of the tool can be automatically obtained by running the tool
 with the `-h` or `--h` flags. With output as below
 
